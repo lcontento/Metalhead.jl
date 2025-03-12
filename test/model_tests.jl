@@ -3,6 +3,7 @@ using Metalhead, Images, TestImages
 using Flux: gradient, gpu
 using CUDA: CUDA, has_cuda
 using Downloads
+using Test
 
 export PRETRAINED_MODELS,
     TEST_FAST,

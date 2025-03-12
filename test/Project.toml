@@ -11,7 +11,7 @@ Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
 
 [compat]
 CUDA = "4, 5"
-Flux = "0.13.16, 0.14"
+Flux = "0.13.16, 0.14, 0.15, 0.16"
 Images = "0.26"
 ReTestItems = "1"
 Test = "1"
